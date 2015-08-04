@@ -49,11 +49,12 @@ hi NonText ctermfg=22 ctermbg=235 cterm=NONE guifg=#30312a guibg=#252525 gui=NON
 hi Number ctermfg=62 ctermbg=NONE cterm=NONE guifg=#6c71c4 guibg=NONE gui=NONE
 hi Operator ctermfg=167 ctermbg=NONE cterm=bold guifg=#e74c3c guibg=NONE gui=bold
 hi PreProc ctermfg=167 ctermbg=NONE cterm=bold guifg=#e74c3c guibg=NONE gui=bold
-hi Special ctermfg=231 ctermbg=NONE cterm=NONE guifg=#ecf0f1 guibg=NONE gui=NONE
+hi Special ctermfg=62 ctermbg=NONE cterm=NONE guifg=#6c71c4 guibg=NONE gui=NONE
 hi SpecialKey ctermfg=22 ctermbg=236 cterm=NONE guifg=#30312a guibg=#2f2f2f gui=NONE
 hi Statement ctermfg=167 ctermbg=NONE cterm=bold guifg=#e74c3c guibg=NONE gui=bold
 hi StorageClass ctermfg=68 ctermbg=NONE cterm=NONE guifg=#3498db guibg=NONE gui=NONE
 hi String ctermfg=220 ctermbg=NONE cterm=NONE guifg=#f1c40f guibg=NONE gui=NONE
+hi Structure ctermfg=68 ctermbg=NONE cterm=bold guifg=#3498db guibg=NONE gui=bold
 hi Tag ctermfg=41 ctermbg=NONE cterm=NONE guifg=#2ecc71 guibg=NONE gui=NONE
 hi Title ctermfg=231 ctermbg=NONE cterm=bold guifg=#ecf0f1 guibg=NONE gui=bold
 hi Todo ctermfg=241 ctermbg=NONE cterm=inverse,bold guifg=#606060 guibg=NONE gui=inverse,bold,italic
