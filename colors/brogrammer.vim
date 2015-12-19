@@ -37,7 +37,7 @@ hi Define ctermfg=167 ctermbg=NONE cterm=bold guifg=#e74c3c guibg=NONE gui=bold
 hi DiffAdd ctermfg=231 ctermbg=64 cterm=bold guifg=#ecf0f1 guibg=#44800a gui=bold
 hi DiffDelete ctermfg=88 ctermbg=NONE cterm=NONE guifg=#880505 guibg=NONE gui=NONE
 hi DiffChange ctermfg=231 ctermbg=23 cterm=NONE guifg=#ecf0f1 guibg=#1d3251 gui=NONE
-hi DiffText ctermfg=40 ctermbg=23 cterm=bold guifg=#00df00 guibg=#1d3251 gui=bold
+hi DiffText ctermfg=231 ctermbg=40 cterm=bold guifg=#ecf0f1 guibg=#00df00 gui=bold
 hi ErrorMsg ctermfg=15 ctermbg=167 cterm=NONE guifg=#ffffff guibg=#e74c3c gui=NONE
 hi WarningMsg ctermfg=15 ctermbg=167 cterm=NONE guifg=#ffffff guibg=#e74c3c gui=NONE
 hi Float ctermfg=62 ctermbg=NONE cterm=NONE guifg=#6c71c4 guibg=NONE gui=NONE
